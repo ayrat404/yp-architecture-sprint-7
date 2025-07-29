@@ -1,0 +1,1 @@
+kubectl apply -f ./manifests/cluster-role-bindings.yaml
